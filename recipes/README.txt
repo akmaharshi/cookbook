@@ -1,0 +1,1 @@
+All my favorite recipes will be stored in this repository
